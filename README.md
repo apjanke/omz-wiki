@@ -1,6 +1,6 @@
 # omz-wiki
 
-This is my quasi-fork of robbyrussel/oh-my-zsh's wiki.
+This is my quasi-fork of the [robbyrussel/oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) wiki.
 
 There is no code in this repo. It exists only to provide a place for hosting the GitHub wiki for it.
 
